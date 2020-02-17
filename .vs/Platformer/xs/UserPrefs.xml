@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{100AE41E-9853-00A1-0814-C759729749EB}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Resources/Test.txt">
+    <Files>
+      <File FileName="Assets/Scripts/LevelParserStarter.cs" Line="30" Column="29" />
+      <File FileName="Assets/Resources/Test.txt" Line="15" Column="47" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7f7d7a47-6abc-4472-8327-9b1c22cbb2e5" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
