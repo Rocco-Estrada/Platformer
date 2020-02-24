@@ -1,14 +1,13 @@
 ﻿<Properties StartupConfiguration="{100AE41E-9853-00A1-0814-C759729749EB}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Clock.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/LevelParserStarter.cs">
     <Files>
-      <File FileName="Assets/Scripts/LevelParserStarter.cs" Line="66" Column="66" />
-      <File FileName="Assets/Scripts/Clock.cs" Line="7" Column="5" />
-      <File FileName="Assets/Resources/Test.txt" Line="1" Column="5" />
+      <File FileName="Assets/Resources/MyLevel.txt" Line="15" Column="180" />
+      <File FileName="Assets/Scripts/LevelParserStarter.cs" Line="16" Column="5" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7f7d7a47-6abc-4472-8327-9b1c22cbb2e5" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ae688a71-8e7a-47b4-a2d3-34c9ab431f30" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

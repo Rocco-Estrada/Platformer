@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
@@ -6,7 +7,7 @@ using UnityEngine.UI;
 public class Clock : MonoBehaviour
 {
     [SerializeField] private Text clock;
-    private int time = 400;
+    private float time = 400.0f;
 
     void Start()
     {
@@ -15,9 +16,14 @@ public class Clock : MonoBehaviour
 
     void Update()
     {
-           
-        time--;
-        clock.text = time.ToString();
+        if (time > 0)
+        {
+            time -= Time.deltaTime;
+            int seconds = (int)time;
+            clock.text = seconds.ToString();
+        }
+        else
+            return;
     
     }
 
